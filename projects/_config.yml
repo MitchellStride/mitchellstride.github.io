@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: Projects
+description:
+show_downloads: false
+google_analytics:
+theme:
